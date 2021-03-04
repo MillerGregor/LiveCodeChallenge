@@ -1,0 +1,212 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "createdAt": "2021-03-04T10:01:46.810Z",
+      "name": "Sedrick Keebler II",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/devinhalladay/128.jpg"
+    },
+    {
+      "id": "2",
+      "createdAt": "2021-03-04T11:41:35.068Z",
+      "name": "Jolie Smith",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/nerrsoft/128.jpg"
+    },
+    {
+      "id": "3",
+      "createdAt": "2021-03-04T13:58:05.102Z",
+      "name": "Dr. Warren Hudson",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/vimarethomas/128.jpg"
+    },
+    {
+      "id": "4",
+      "createdAt": "2021-03-04T12:45:21.047Z",
+      "name": "Collin Wiegand PhD",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/n1ght_coder/128.jpg"
+    },
+    {
+      "id": "5",
+      "createdAt": "2021-03-04T04:38:14.757Z",
+      "name": "Oswaldo Nienow",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/haydn_woods/128.jpg"
+    }
+  ],
+  "messages": [
+    {
+      "id": "1",
+      "userId": "1",
+      "createdAt": "2021-03-03T19:41:51.522Z",
+      "title": "Public-key bandwidth-monitored Graphic Interface",
+      "content": "wireless Technician",
+      "viewed": false
+    },
+    {
+      "id": "2",
+      "userId": "2",
+      "createdAt": "2021-03-03T20:16:06.898Z",
+      "title": "Customer-focused bandwidth-monitored approach",
+      "content": "Bacon",
+      "viewed": false
+    },
+    {
+      "id": "3",
+      "userId": "3",
+      "createdAt": "2021-03-04T08:44:36.181Z",
+      "title": "Visionary upward-trending middleware",
+      "content": "Handmade Fresh Shirt",
+      "viewed": false
+    },
+    {
+      "id": "4",
+      "userId": "4",
+      "createdAt": "2021-03-04T00:54:04.892Z",
+      "title": "Reactive uniform monitoring",
+      "content": "backing up",
+      "viewed": false
+    },
+    {
+      "userId": "1",
+      "createdAt": "2021-03-03T21:39:42.611Z",
+      "title": "Compatible client-driven definition",
+      "content": "customer loyalty Handmade Plastic",
+      "viewed": true,
+      "id": "5"
+    },
+    {
+      "id": "6",
+      "userId": "2",
+      "createdAt": "2021-03-04T06:23:36.208Z",
+      "title": "Implemented optimizing initiative",
+      "content": "Generic Missouri Keys",
+      "viewed": false
+    },
+    {
+      "id": "7",
+      "userId": "3",
+      "createdAt": "2021-03-04T02:54:56.102Z",
+      "title": "Mandatory encompassing neural-net",
+      "content": "Utah cyan",
+      "viewed": false
+    },
+    {
+      "id": "8",
+      "userId": "4",
+      "createdAt": "2021-03-04T02:46:12.367Z",
+      "title": "Persistent solution-oriented pricing structure",
+      "content": "composite",
+      "viewed": false
+    },
+    {
+      "id": "9",
+      "userId": "5",
+      "createdAt": "2021-03-04T00:19:16.101Z",
+      "title": "Cross-group static synergy",
+      "content": "Accounts",
+      "viewed": false
+    },
+    {
+      "id": "10",
+      "userId": "1",
+      "createdAt": "2021-03-04T12:10:27.915Z",
+      "title": "Enterprise-wide stable encryption",
+      "content": "Car Orchestrator viral",
+      "viewed": false
+    },
+    {
+      "id": "11",
+      "userId": "2",
+      "createdAt": "2021-03-04T16:32:16.463Z",
+      "title": "Multi-tiered static database",
+      "content": "grey transition",
+      "viewed": false
+    },
+    {
+      "id": "12",
+      "userId": "3",
+      "createdAt": "2021-03-04T12:19:57.420Z",
+      "title": "Streamlined 24/7 paradigm",
+      "content": "access Internal ubiquitous",
+      "viewed": false
+    },
+    {
+      "id": "13",
+      "userId": "4",
+      "createdAt": "2021-03-03T19:55:56.346Z",
+      "title": "Exclusive 24/7 frame",
+      "content": "hard drive alarm Manager",
+      "viewed": false
+    },
+    {
+      "id": "14",
+      "userId": "5",
+      "createdAt": "2021-03-04T12:47:40.128Z",
+      "title": "Secured 6th generation hub",
+      "content": "back-end",
+      "viewed": false
+    },
+    {
+      "id": "15",
+      "userId": "1",
+      "createdAt": "2021-03-04T01:22:59.524Z",
+      "title": "Persistent homogeneous initiative",
+      "content": "Lek navigate",
+      "viewed": false
+    },
+    {
+      "id": "16",
+      "userId": "2",
+      "createdAt": "2021-03-04T00:42:04.101Z",
+      "title": "Fundamental needs-based implementation",
+      "content": "Ergonomic Granite Fish bypassing",
+      "viewed": false
+    },
+    {
+      "id": "17",
+      "userId": "3",
+      "createdAt": "2021-03-03T19:30:49.943Z",
+      "title": "Switchable grid-enabled array",
+      "content": "real-time",
+      "viewed": false
+    },
+    {
+      "id": "18",
+      "userId": "4",
+      "createdAt": "2021-03-03T20:28:45.953Z",
+      "title": "Down-sized scalable service-desk",
+      "content": "Liaison Applications",
+      "viewed": false
+    },
+    {
+      "id": "19",
+      "userId": "5",
+      "createdAt": "2021-03-03T22:20:31.320Z",
+      "title": "Multi-tiered attitude-oriented website",
+      "content": "solid state Republic of Korea backing up",
+      "viewed": false
+    },
+    {
+      "id": "20",
+      "userId": "1",
+      "createdAt": "2021-03-04T02:53:48.818Z",
+      "title": "Reactive composite open system",
+      "content": "Credit Card Account indexing",
+      "viewed": false
+    },
+    {
+      "id": "21",
+      "userId": "2",
+      "createdAt": "2021-03-03T20:20:49.655Z",
+      "title": "Centralized system-worthy open architecture",
+      "content": "deposit Configurable Agent",
+      "viewed": false
+    },
+    {
+      "id": "22",
+      "userId": "3",
+      "createdAt": "2021-03-03T21:09:43.972Z",
+      "title": "Open-architected 5th generation service-desk",
+      "content": "SCSI purple override",
+      "viewed": false
+    }
+  ]
+}
