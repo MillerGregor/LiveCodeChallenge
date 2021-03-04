@@ -6,6 +6,7 @@
     "Message": {
         "subject": "string",
         "viewed": "boolean",
-        "content": "string"
+        "content": "string",
+        "user": "User"
     }
 }
