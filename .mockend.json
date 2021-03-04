@@ -4,8 +4,10 @@
         "messages": "Message[]"
     },
     "Message": {
+        "id": "string",
         "subject": "string",
         "viewed": "boolean",
-        "content": "string"
+        "content": "string",
+        "user": "User"
     }
 }
