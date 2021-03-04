@@ -1,0 +1,11 @@
+{
+    "User": {
+        "id": "string",
+        "messages": "Message[]"
+    },
+    "Message": {
+        "subject": "string",
+        "viewed": "boolean",
+        "content": "string"
+    }
+}
