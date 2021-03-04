@@ -10,12 +10,15 @@ We're adding a new feature to our hypothetical application which displays a user
         - body with updated message as JSON, omitting id
         - set header: `Content-Type: application/json`
   - re-query every 30 seconds
-  - start server: 
-    - in `./server`, use "`start`" script from package.json
+  - NOTES: 
+    - start server: "`start`" script in `./server/package.json`
+    - the mock server implements a 2.5s delay
+    - consider calls to the endpoints expensive
 
-- Front-End Component
+- React Component
   - Re-usable throughout an application
     - include 2 instances to demonstrate
-  - Styled as defined in Figma
-  - Shows status indicator when query is running
+  - Styled as defined in Figma:
+    - https://www.figma.com/file/rlyQpSTz2UT4Vk44dA47B0/Live-Coding-Challenge?node-id=0%3A1
+  - Shows `StatusIndicator` when query is running
   - when a message is clicked, it is updated via the API as viewed
